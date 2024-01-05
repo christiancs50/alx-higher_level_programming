@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    import 4-hidden_discovery
+    import hidden_4.pyc
 
     files = dir()
     for i in range(0, len(files)):
