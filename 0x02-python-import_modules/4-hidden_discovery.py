@@ -5,4 +5,4 @@ if __name__ == "__main__":
     files = dir()
     for i in range(0, len(files)):
         if files[i][:2] != "__":
-            print("".format(files[i]))
+            print("{}".format(files[i]))
